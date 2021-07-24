@@ -1,4 +1,4 @@
-package chapter01_Fundamentals.BASIC_PROGRAMMING_MODEL;
+package chapter01;
 
 import java.util.Scanner;
 

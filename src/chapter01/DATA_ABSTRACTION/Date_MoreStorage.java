@@ -1,4 +1,4 @@
-package chapter01_Fundamentals.DATA_ABSTRACTION;
+package chapter01.DATA_ABSTRACTION;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package chapter01_Fundamentals.DATA_ABSTRACTION.Accumulator;
+package chapter01.DATA_ABSTRACTION.Accumulator;
 
 import java.util.Random;
 import java.util.Scanner;

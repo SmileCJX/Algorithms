@@ -1,4 +1,4 @@
-package chapter01_Fundamentals.DATA_ABSTRACTION.Accumulator;
+package chapter01.DATA_ABSTRACTION.Accumulator;
 
 /**
  * Created by Administrator on 2016/12/16/016.
